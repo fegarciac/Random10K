@@ -1,25 +1,3 @@
-/**
-* @author EMILIA BUTU
-* version 1.0
-* since   2020-06
-*
-* Student name:  Fernanda Garcia Camargo
-* Completion date: 12/08
-*
-*	SortedABPriQ.txt: download and save as SortedABPriQ.java
-* 	Priority Queue using a Sorted Array
-*
-*	Class offers two constructors:  one that use the natural order of the
-*	elements as defined by their compareTo method and one that uses an
-*	ordering based on a comparator argument.
-*
-*	 Null elements are not allowed.
-*
-*	 Duplicate elements are allowed.
-*
-* 	Student tasks: complete tasks specified in the file
-*/
-
 
 import java.util.Comparator;
 
