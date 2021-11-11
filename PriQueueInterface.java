@@ -1,22 +1,3 @@
-/**
-* @author EMILIA BUTU
-* version 1.0
-* since   2020-06
-*
-* Student name:  Fernanda Garcia Camargo
-* Completion date: 12/08
-*
-*	PriQueueInterface.java:
-* 	Uses the SortedABPriQ, building priority queues in increasing and decreasing order
-*
-* 	Interface for a class that implements a priority queue of T.
-*	The largest element as determined by the indicated   comparison has the
-*	highest priority.
-*
-*	Null elements are not allowed. Duplicate elements are allowed.*
-*
-*	Student tasks: complete tasks specified in the file
-*/
 
 public interface PriQueueInterface<T>
 {
